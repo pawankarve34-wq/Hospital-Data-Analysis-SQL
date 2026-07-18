@@ -37,8 +37,19 @@ This project demonstrates SQL-based hospital data analysis using PostgreSQL and 
 - EXTRACT()
 - TO_CHAR()
 
-## 📷 Project Screenshot
-(Add your SQL output screenshots here.)
+## 📷 Project Screenshots
+
+### 1. Total Patients
+![Total Patients](screenshots/Query1_Total_Patients.png)
+
+### 2. City Report
+![City Report](screenshots/Query2_City_Report.png)
+
+### 3. Monthly Medical Expenses
+![Monthly Expenses](screenshots/Query3_Monthly_Expenses.png)
+
+### 4. Department Report
+![Department Report](screenshots/Query4_Department_Report.png)
 
 ## 👨‍💻 Author
 **Pawan Karve**
